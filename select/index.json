@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "いとしのエリー",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-13T14:20:33.310953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ellie My Love -いとしのエリー-",
+      "artist": "Boyz II Men",
+      "has_synced": false,
+      "path": "select/01_Ellie_My_Love_-いとしのエリー-_Boyz_II_Men.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "Kohmi Hirose",
+      "has_synced": true,
+      "path": "select/02_いとしのエリー_Kohmi_Hirose.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_いとしのエリー_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いとしのエリー - Itoshi no Ellie",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/04_いとしのエリー_-_Itoshi_no_Ellie_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いとしのエリー - Itoshi no Ellie",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": false,
+      "path": "select/05_いとしのエリー_-_Itoshi_no_Ellie_SOUTHERN_ALL_STARS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/06_いとしのエリー_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/07_いとしのエリー_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "平原綾香",
+      "has_synced": true,
+      "path": "select/08_いとしのエリー_平原綾香.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "広瀬香美",
+      "has_synced": false,
+      "path": "select/09_いとしのエリー_広瀬香美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/10_いとしのエリー_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いとしのエリー [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/11_いとしのエリー_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いとしのエリー",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/12_いとしのエリー_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとしのエリー",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_いとしのエリー_サザンオールスターズ.txt"
+    }
+  ]
+}
