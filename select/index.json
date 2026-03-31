@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "いとしのエリー",
   "base_artist": "サザンオールスターズ",
-  "createdAt": "2025-12-13T14:20:35.054657Z",
+  "createdAt": "2026-03-31T13:39:56.035022Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "サザンオールスターズ",
       "has_synced": false,
       "path": "select/pl_01_いとしのエリー_サザンオールスターズ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "いとしのエリー",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/localdb_01_いとしのエリー_サザンオールスターズ.txt",
+      "repo_name": "htMGeeLObNM"
     }
   ]
 }
